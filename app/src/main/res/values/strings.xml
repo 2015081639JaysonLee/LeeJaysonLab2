@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LeeJaysonLab2</string>
+    <string name="bali">Bali, Indonesia</string>
+    <string name="location">Location:</string>
+    <string name="distance">Distance from UST:</string>
+    <string name="hinter">Enter here</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="caleruega">Caleruega</string>
+    <string name="title">Title</string>
+    <string name="ustToBali">2,632 km</string>
+    <string name="locCalauerga">Bgry. Caylaway, Batulao, Nasugbu, Batangas</string>
+    <string name="distanceCalauerga">89.6 km</string>
+    <string name="locLuna">De Los Reyes St, Vigan City, Ilocos Sur</string>
+    <string name="hotelLuna">Hotel Luna</string>
+    <string name="ustToLuna">401.3 km</string>
+    <string name="contentCalauerga">A mosaic picture inside the Church of Calauerga</string>
+    <string name="baliDesc">Beautiful Bali</string>
+    <string name="ll">Linear Layout</string>
+    <string name="rl">Relative Layout</string>
+    <string name="cl">Constraint Layout</string>
+</resources>
